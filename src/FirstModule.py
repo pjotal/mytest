@@ -11,7 +11,7 @@ def addFixedValue(a):
     return y + a
 
 def sample(variable):
-    print "hello" + variable
+    print "olá" + variable
 
 print add(1,2)
 print addFixedValue(1)
