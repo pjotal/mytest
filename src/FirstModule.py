@@ -12,7 +12,7 @@ def sample(variable):  # @UnusedVariable
     blabla
     @param variable:
     """
-    print "this is my update blabla"
+    print "this is my update"
 
 
 print add(1, 2)
