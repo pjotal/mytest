@@ -9,7 +9,7 @@ def addFixedValue(a):
 
 def sample(variable):  # @UnusedVariable
     """
-    blabla
+    this is my method doc.
     @param variable:
     """
     print "this is my update blabla"
