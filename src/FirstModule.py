@@ -14,7 +14,7 @@ def sample(variable):  # @UnusedVariable
     blabla
     @param variable:
     """
-    print "this is my thrid update"
+    print "this is my update"
 
 
 print add(1, 2)
